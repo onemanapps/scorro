@@ -31,6 +31,12 @@
     ],
     "experiments": {
       "typedRoutes": true
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "d0593253-9139-4416-a102-e91bdad1102f"
+      }
+    },
+    "owner": "onemanapps-org"
   }
 }
